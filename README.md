@@ -13,6 +13,7 @@ npm start
 # Description
 Add products to a cart
 # Usage
+The Heroku link is up, but it has a --tails error
 [Heroku link.](https://fierce-castle-59956.herokuapp.com/)
 # Questions
 If you have any questions, please e-mail me at nickjamesridgway@gmail.com.
